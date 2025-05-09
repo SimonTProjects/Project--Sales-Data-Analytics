@@ -1,7 +1,8 @@
 # Sales-Data-Analysis-Project
-A SQL project assessing the sales performance of products. Accompanied with a corresponding Power BI data visualisation.
+1) A SQL project assessing the sales performance of products.
+2) Accompanied with a corresponding Power BI data visualisation.
 
-The SQL file illustrates the following:
+1. The SQL file illustrates the following:
 - TRENDS AND CHANGE-OVER-TIME
 
 - CUMULATIVE ANALYSIS 
@@ -16,6 +17,9 @@ The SQL file illustrates the following:
 - DATA SEGMENTATION
 	Group the data based on a specific range (reveals correlation)
 
-Conclusions:
+- Conclusions:
 	- Customer Report: Illustrating customer behaviour and providing isnights across age and recency of purchase.
-	- Product Report: Provides insights on the relevance of products, such as popularity.
+	
+ 	- Product Report: Provides insights on the relevance of products, such as popularity.
+
+2. The Power BI file is a visualisation of the desired insights, such as most popular products by year or least popular products per age range.
