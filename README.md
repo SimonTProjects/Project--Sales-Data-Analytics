@@ -1,4 +1,4 @@
-# Sales Data Analysis Project
+# Sales Data Analysis
 1) A SQL project assessing the sales performance of products.
 2) Corresponding Power BI data visualisation.
 
