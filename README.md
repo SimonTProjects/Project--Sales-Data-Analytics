@@ -18,5 +18,4 @@ The SQL file illustrates the following:
 
 Conclusions:
 	- Customer Report: Illustrating customer behaviour and providing isnights across age and recency of purchase.
-
 	- Product Report: Provides insights on the relevance of products, such as popularity.
