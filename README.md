@@ -1,5 +1,5 @@
 # Sales-Data-Analysis-Project
-A SQL project assessing the sales performance for a...
+A SQL project assessing the sales performance of products. Accompanied with a corresponding Power BI data visualisation.
 
 TASK 1 - TRENDS AND CHANGE-OVER-TIME
 
