@@ -22,4 +22,4 @@
 	
  	- Product Report: Provides insights on the relevance of products, such as popularity.
 
-2. The Power BI file is a visualisation of the desired insights, such as most popular products by year or least popular products per age range.
+2. The Power BI file - the dashboard has been exported as a PDF file - is a visualisation of the desired insights, such as most sold products according to age groups.
