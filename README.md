@@ -1,5 +1,6 @@
 # Sales Data Analytics
 1 = A SQL project assessing the sales performance of products.
+
 2 = Corresponding Power BI data visualisation.
 
 1. The SQL file illustrates the following:
