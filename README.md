@@ -1,20 +1,24 @@
 # Sales Data Analytics
-1) A SQL project assessing the sales performance of products.
-2) Corresponding Power BI data visualisation.
+1 = A SQL project assessing the sales performance of products.
+2 = Corresponding Power BI data visualisation.
 
 1. The SQL file illustrates the following:
 - TRENDS AND CHANGE-OVER-TIME
 
-- CUMULATIVE ANALYSIS 
+- CUMULATIVE ANALYSIS
+
 	Aggregate the data progressively over time (understand growth)
 
 - PERFORMANCE ANALYSIS
+
 	Yearly performance: Compare product sales to AVG. SALES and PREV. YEARS' SALES
 
 - PART-TO-WHOLE ANALYSIS
+
 	Propotions: Categories contributing the most to overall sales
 
 - DATA SEGMENTATION
+
 	Group the data based on a specific range (reveals correlation)
 
 - Conclusions:
